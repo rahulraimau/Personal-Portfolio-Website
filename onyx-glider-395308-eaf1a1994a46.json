@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "onyx-glider-395308",
+  "private_key_id": "eaf1a1994a46b54c76878a63cafbea916b216480",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbjWjdjnTKmO7U\n51xcpCH2zJ5R4XZdwuwjsSxO4C1o7WwVXZhffyI0SrxOwFoo4WL1shYgYzIr8w95\nXalIpREXTax3RFPumBIvDFEiDjoHxZEO7FSFGFI/2havbmGDbgJadLTxFK1fMdSK\nwrkNR5AMblDzEY/ZycLrwcLgMGMC83TxuCDhZJvV+I9rKd691uzQpZQjzq6EHmF8\nJz4WI3a/OW5TXZTPaMTsVJgLTMS8acMDy+E7H2ciNNbk0dYppAEd4QfoH2XE2zM3\nlQo0DuE9jdBkm8VzJmyvD4uvuyzkWMH3uTQqI/o8ggz4H2/6giqee6EtSsH1oadj\nVScYa+rBAgMBAAECggEAE6ob0K56q0YMI1QgRAHn3Uhe12EWUqIasiRqwonqk7I4\nELdlVOVAkLXF+nqsqzBbD051J6ECrbWrhh9GEE31zClgnS9BIQ+OdO4sr4523Zan\nUOilgrHha/sJFSJyJ2hX2dGZMkT36enlwaj+NeSPHFMx3pigw9qSzrUPCsJzMeMc\nglQTWYBwRHc7o/EJe+uouNwYhHMuObzBPkre7NzBPZMzCXgkq+CINPXvDtU4IGR6\nKOqLpUP3CQmocO1NGMPKQhzTDYvZ58Vp668TFs0A35I67RpVJ3m/fxvVIxtoDLwg\nZ/t36JkH0c6oYEQVqC4dr2OB0lPgku4SXGS0AHEnBQKBgQDaoYujik8p6YqyABvl\n7lZHlfono1b0I8/UMvQIZLgptLLMstxiUnnatNiLOn5bvRP8hhfThDQ3EdpXeL5J\nISjPQWTSZjrfYO6R7KUqjLEm9DZd3kPe40JsNkVcWYpiNoG+IZEtxSziKAQDhIL8\nSrJSImn4TZGpWz/MXp3nRUfPiwKBgQC2I8jRlaFdIZ9E/Klhvt/TeCJAJQPthFX/\nzAYXFIXXFq/FK9rFCtjZq6FgMF52qrbf4MZ7qOcJt8ZiDMKgCLtfKZtpf9NM1jXu\nuR+uhyKokECJIfmGx8pTUSq02qOEAhi7tuPlRLVT4AK+TpxMvt3osO59Z2FAr2+B\nBolxyMj4YwKBgEQw6NXseL6Q2jKkuA7iZMTVMX4VgzSIyvTbo6POjmZrtu0DyJte\nMCWYDIZ4ixrgAZDc3ieZ75NRnTF1NpymnAzwz5qUSj6MBD09e1KnKUYGG8LxZWfq\nqDgKQV4Ji5EQgS0lWRvWiSZM5tuWBCjev3nAxB6vSwRwsphy1ntg74H7AoGAaNS/\nyKEudsPbP4GMm82YVcZXMEQdtp7sQIXVG4OcZOeR0xIioDZWCTJXd11fgT1QdBqT\nIqlcEKPNcrGVczaTYXo5EMeZfifscrHqIjF1KT+dZVBApepn8PxOcDlG07vBMIlb\nMaISG2xbJ91m6GUSo9Lx8QuHVgujScfRY8QEp7ECgYA2CO0n0qu5EPxysn3mkDXs\nN3B1M1239IlHVjxOitXAE7mbsbMqPx449n84X0oFYX/uYj/buPo4T+Bezr1WHSoU\nGlmPS8lBGZWgRS89XAX5mZBL9fouVNqZdUZ1B/0JPUI7+sO1rw86bnlBXw+jaItr\nhvolrA3+sfR07sr1I+fA4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "portfolio-contact-service@onyx-glider-395308.iam.gserviceaccount.com",
+  "client_id": "101149045298709558218",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/portfolio-contact-service%40onyx-glider-395308.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
